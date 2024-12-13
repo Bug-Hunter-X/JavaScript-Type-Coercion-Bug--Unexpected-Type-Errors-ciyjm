@@ -1,0 +1,2 @@
+# JavaScript Type Coercion Bug
+This repository demonstrates a common JavaScript bug related to type coercion and its potential to cause unexpected runtime errors. The `bug.js` file contains the buggy code. The `bugSolution.js` provides a corrected version with explicit type checking.
